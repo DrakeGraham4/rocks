@@ -1,4 +1,7 @@
-﻿Console.WriteLine("Do you choose rock,paper or scissors");
+﻿int userPoints = 0;
+int computerPoints = 0;
+
+Console.WriteLine("Do you choose rock,paper or scissors");
 string userChoice = Console.ReadLine();
 
 Random r = new Random();
@@ -36,18 +39,21 @@ else if (computerChoice == 2)
     {
         Console.WriteLine("The computer chose paper");
         Console.WriteLine("Sorry you lose, paper beats rock dummy");
+        computerPoints++;
 
     }
     else if (userChoice == "paper")
     {
         Console.WriteLine("The computer chose scissors");
         Console.WriteLine("Sorry you lose, scissors beats paper idiot");
+        computerPoints++;
 
     }
     else if (userChoice == "scissors")
     {
         Console.WriteLine("The computer chose rock");
         Console.WriteLine("Sorry you lose, rock beats scissors silly");
+        computerPoints++;
     }
     else
     {
@@ -60,18 +66,21 @@ else if (computerChoice == 3)
     {
         Console.WriteLine("The computer chose scissors");
         Console.WriteLine("You win, rock beats scissors cool guy");
+        userPoints++;
 
     }
     else if (userChoice == "paper")
     {
         Console.WriteLine("The computer chose rock");
         Console.WriteLine("You win, paper beats rock, you're the best");
+        userPoints++;
 
     }
     else if (userChoice == "scissors")
     {
         Console.WriteLine("The computer chose paper");
         Console.WriteLine("You win, scissors beats paper you lovely man");
+        userPoints++;
 
     }
     else
@@ -81,6 +90,9 @@ else if (computerChoice == 3)
     }
 
 }
+
+Console.WriteLine(computerPoints);
+Console.WriteLine(userPoints);
 
 Console.ReadLine();
 
