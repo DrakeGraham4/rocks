@@ -1,0 +1,15 @@
+C:\Users\dt_gr\source\codeworks\rocks\bin\Debug\net6.0\rocks.exe
+C:\Users\dt_gr\source\codeworks\rocks\bin\Debug\net6.0\rocks.deps.json
+C:\Users\dt_gr\source\codeworks\rocks\bin\Debug\net6.0\rocks.runtimeconfig.json
+C:\Users\dt_gr\source\codeworks\rocks\bin\Debug\net6.0\rocks.dll
+C:\Users\dt_gr\source\codeworks\rocks\bin\Debug\net6.0\rocks.pdb
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.csproj.AssemblyReference.cache
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.AssemblyInfoInputs.cache
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.AssemblyInfo.cs
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.csproj.CoreCompileInputs.cache
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.dll
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\refint\rocks.dll
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.pdb
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\rocks.genruntimeconfig.cache
+C:\Users\dt_gr\source\codeworks\rocks\obj\Debug\net6.0\ref\rocks.dll
